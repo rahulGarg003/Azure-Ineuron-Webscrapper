@@ -1,0 +1,326 @@
+[2023-02-18 12:33:10,114] None None requested None
+INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 12:33:10,116] None None requested None
+INFO in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 12:33:10,120] None None requested None
+INFO in _internal:  * Restarting with stat
+[2023-02-18 12:33:12,106] None None requested None
+WARNING in _internal:  * Debugger is active!
+[2023-02-18 12:33:12,119] None None requested None
+INFO in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 12:33:50,580] None None requested None
+INFO in _internal: 127.0.0.1 - - [18/Feb/2023 12:33:50] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:35:23,151] None None requested None
+INFO in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\__init__.py', reloading
+[2023-02-18 12:35:23,792] None None requested None
+INFO in _internal:  * Restarting with stat
+[2023-02-18 12:35:25,873] None None requested None
+WARNING in _internal:  * Debugger is active!
+[2023-02-18 12:35:25,883] None None requested None
+INFO in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 12:35:54,031] None None requested None
+INFO in _internal: 127.0.0.1 - - [18/Feb/2023 12:35:54] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:36:07,644] None None requested None INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 12:36:07,645] None None requested None INFO in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 12:36:07,650] None None requested None INFO in _internal:  * Restarting with stat
+[2023-02-18 12:36:09,458] None None requested None WARNING in _internal:  * Debugger is active!
+[2023-02-18 12:36:09,465] None None requested None INFO in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 12:36:17,688] None None requested None INFO in _internal: 127.0.0.1 - - [18/Feb/2023 12:36:17] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:39:03,591] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 12:39:03,592] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 12:39:03,596] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 12:39:05,328] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 12:39:05,334] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 12:39:19,851] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:39:19] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:39:28,347] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:39:28] "GET /category-courses/62cd960353f5feb7d96b9aea HTTP/1.1" 200 -
+[2023-02-18 12:43:25,374] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 12:43:25,376] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 12:43:25,379] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 12:43:27,199] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 12:43:27,206] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 12:43:33,300] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:43:33] "GET /category-courses/62cd960353f5feb7d96b9aea HTTP/1.1" 200 -
+[2023-02-18 12:43:49,816] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:43:49] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:45:17,798] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:45:17] "GET /category-courses/62cd960353f5feb7d96b9aea HTTP/1.1" 200 -
+[2023-02-18 12:45:23,784] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:45:23] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:45:32,264] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:45:32] "GET /category-courses/62cd977d53f5fe167f6b9b04 HTTP/1.1" 200 -
+[2023-02-18 12:47:36,663] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:47:36] "GET /category-courses/62cd977d53f5fe167f6b9b04 HTTP/1.1" 200 -
+[2023-02-18 12:47:44,819] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:47:44] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:48:43,191] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:48:43] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:49:00,394] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:49:00] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:49:02,278] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:49:02] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:49:27,009] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:49:27] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:49:28,336] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:49:28] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:49:51,028] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:49:51] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:49:55,747] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:49:55] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:50:12,844] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:50:12] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:50:14,095] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:50:14] "GET / HTTP/1.1" 200 -
+[2023-02-18 12:50:41,268] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:50:41] "GET /category-courses/62cd98c753f5fe24956b9b11 HTTP/1.1" 200 -
+[2023-02-18 12:50:54,390] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:50:54] "GET /course/Full-Stack-Django-and-React HTTP/1.1" 200 -
+[2023-02-18 12:51:13,046] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:51:13] "GET /course/The-Pro-Backend-Developer HTTP/1.1" 200 -
+[2023-02-18 12:51:25,537] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 12:51:25] "GET /download/The-Pro-Backend-Developer HTTP/1.1" 200 -
+[2023-02-18 13:57:18,015] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 13:57:18,017] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 13:57:18,022] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 13:57:19,856] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 13:57:19,865] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 13:57:31,056] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 13:57:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2023-02-18 13:57:31,849] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 13:57:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 13:57:31,879] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 13:57:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 13:57:32,068] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 13:57:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 13:57:32,143] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 13:57:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 13:58:15,646] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\home\\routes.py', reloading
+[2023-02-18 13:58:16,209] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 13:58:18,017] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 13:58:18,023] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:01:03,738] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:01:03,936] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:01:05,864] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:01:05,872] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:01:07,101] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:01:07,278] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:01:09,323] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:01:09,329] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:01:12,793] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:01:12,967] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:01:14,910] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:01:14,916] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:01:18,412] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:01:18,569] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:01:20,587] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:01:20,594] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:01:21,995] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:01:22,258] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:01:24,102] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:01:24,108] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:01:25,339] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:01:25,497] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:01:27,893] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:01:27,900] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:01:41,339] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:01:41,501] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:01:43,395] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:01:43,402] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:02:08,955] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:02:09,160] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:02:11,300] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:02:11,308] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:02:13,658] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:02:13,852] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:02:16,043] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:02:16,055] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:02:17,345] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\models.py', reloading
+[2023-02-18 14:02:17,536] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:07:08,718] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 14:07:08,720] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 14:07:08,724] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:07:10,460] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:07:10,467] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:07:16,900] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:07:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2023-02-18 14:07:17,327] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 14:07:17,366] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 14:07:17,460] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 14:07:17,518] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:07:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 14:07:45,195] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\routes.py', reloading
+[2023-02-18 14:07:46,089] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:09:09,329] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 14:09:09,331] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 14:09:09,335] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:09:11,117] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:09:11,124] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:09:17,996] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:09:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2023-02-18 14:09:18,192] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:09:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 14:09:18,200] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:09:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 14:09:18,291] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:09:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 14:09:18,348] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:09:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 14:10:37,700] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\routes.py', reloading
+[2023-02-18 14:10:38,379] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:40:13,075] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 14:40:13,076] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 14:40:13,080] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:40:14,937] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:40:14,944] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:40:23,707] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:40:23] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2023-02-18 14:40:23,933] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:40:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 14:40:23,936] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:40:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 14:40:23,976] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:40:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 14:40:24,001] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:40:24] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 14:41:05,853] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 14:41:05,854] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 14:41:05,858] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:41:07,684] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:41:07,690] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:41:16,573] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:41:16] "GET / HTTP/1.1" 200 -
+[2023-02-18 14:41:49,639] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:41:49] "[31m[1mGET /update-data HTTP/1.1[0m" 405 -
+[2023-02-18 14:41:59,309] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:41:59] "[33mGET /login HTTP/1.1[0m" 404 -
+[2023-02-18 14:42:46,642] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\__init__.py', reloading
+[2023-02-18 14:42:47,331] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:43:40,992] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 14:43:40,994] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 14:43:41,001] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:43:42,877] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:43:42,883] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:43:49,337] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:43:49] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+[2023-02-18 14:43:49,508] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:43:49] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-02-18 14:43:49,511] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:43:49] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-02-18 14:43:49,604] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:43:49] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-02-18 14:43:49,661] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:43:49] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 14:49:41,048] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 14:49:41,050] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 14:49:41,053] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 14:49:42,907] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 14:49:42,914] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 14:49:49,437] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:49:49] "GET /login HTTP/1.1" 200 -
+[2023-02-18 14:56:41,720] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:56:41] "GET /login HTTP/1.1" 200 -
+[2023-02-18 14:57:01,537] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:57:01] "GET /login HTTP/1.1" 200 -
+[2023-02-18 14:57:14,232] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:57:14] "GET /login HTTP/1.1" 200 -
+[2023-02-18 14:57:19,969] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:57:19] "GET /login HTTP/1.1" 200 -
+[2023-02-18 14:57:52,610] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:57:52] "POST /login HTTP/1.1" 200 -
+[2023-02-18 14:58:05,348] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 14:58:05] "POST /login HTTP/1.1" 200 -
+[2023-02-18 15:01:19,817] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\routes.py', reloading
+[2023-02-18 15:01:20,031] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 15:01:22,328] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 15:01:22,336] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 15:01:25,789] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\authentication\\routes.py', reloading
+[2023-02-18 15:01:25,998] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 15:05:34,644] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 15:05:34,645] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 15:05:34,649] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 15:05:36,527] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 15:05:36,532] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 15:05:52,225] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:05:52] "GET / HTTP/1.1" 200 -
+[2023-02-18 15:05:55,903] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:05:55] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+[2023-02-18 15:05:56,158] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:05:56] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 15:05:56,222] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:05:56] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 15:05:56,303] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:05:56] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:05:56,343] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:05:56] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:10:28,073] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 15:10:28,075] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 15:10:28,080] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 15:10:30,199] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 15:10:30,210] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 15:10:39,439] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:10:39] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+[2023-02-18 15:10:39,655] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:10:39] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 15:10:39,660] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:10:39] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 15:10:39,695] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:10:39] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:10:39,736] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:10:39] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:48:52,172] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 15:48:52,182] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 15:48:52,188] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 15:48:56,071] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 15:48:56,085] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 15:49:09,087] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:49:09] "GET / HTTP/1.1" 200 -
+[2023-02-18 15:49:13,278] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:49:13] "GET /update-data HTTP/1.1" 200 -
+[2023-02-18 15:49:31,388] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:49:31] "[35m[1mPOST /update-data HTTP/1.1[0m" 500 -
+[2023-02-18 15:49:31,645] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:49:31] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 15:49:31,687] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:49:31] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 15:49:31,801] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:49:31] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:49:31,836] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:49:31] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:54:38,885] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:54:38] "GET / HTTP/1.1" 200 -
+[2023-02-18 15:54:41,188] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:54:41] "GET /update-data HTTP/1.1" 200 -
+[2023-02-18 15:54:50,598] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:54:50] "POST /update-data HTTP/1.1" 200 -
+[2023-02-18 15:55:13,649] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:55:13] "[35m[1mPOST /update-data HTTP/1.1[0m" 500 -
+[2023-02-18 15:55:13,742] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:55:13] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-02-18 15:55:13,756] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:55:13] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-02-18 15:55:13,870] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:55:13] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:55:13,931] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 15:55:13] "[36mGET /update-data?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-02-18 15:56:37,553] INFO None None requested None in _internal:  * Detected change in 'C:\\Users\\rahul\\OneDrive\\Desktop\\Ineuron_FSDS2.0\\WebScrapper-Challange-2\\Ineuron-Scrapper\\apps\\updatedata\\routes.py', reloading
+[2023-02-18 15:56:38,538] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 16:01:13,023] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 16:01:13,026] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 16:01:13,032] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 16:01:15,719] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 16:01:15,730] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 16:01:24,006] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:01:24] "GET / HTTP/1.1" 200 -
+[2023-02-18 16:01:26,490] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:01:26] "GET /update-data HTTP/1.1" 200 -
+[2023-02-18 16:11:15,456] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 16:11:15,460] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 16:11:15,465] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 16:11:17,998] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 16:11:18,030] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 16:11:29,967] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:11:29] "GET / HTTP/1.1" 200 -
+[2023-02-18 16:11:31,586] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:11:31] "GET /update-data HTTP/1.1" 200 -
+[2023-02-18 16:11:37,360] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:11:37] "POST /update-data HTTP/1.1" 200 -
+[2023-02-18 16:19:19,794] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 16:19:19,799] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 16:19:19,810] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 16:19:22,029] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 16:19:22,038] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 16:19:42,350] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:19:42] "GET / HTTP/1.1" 200 -
+[2023-02-18 16:19:47,102] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:19:47] "GET /update-data HTTP/1.1" 200 -
+[2023-02-18 16:27:27,803] INFO None None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 16:27:27,806] INFO None None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 16:27:27,820] INFO None None requested None in _internal:  * Restarting with stat
+[2023-02-18 16:27:30,906] WARNING None None requested None in _internal:  * Debugger is active!
+[2023-02-18 16:27:30,930] INFO None None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 16:35:47,635] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:35:47] "GET / HTTP/1.1" 200 -
+[2023-02-18 16:36:39,561] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:36:39] "GET /update-data HTTP/1.1" 200 -
+[2023-02-18 16:37:26,425] INFO None None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:37:26] "POST /update-data HTTP/1.1" 200 -
+[2023-02-18 16:49:16,011] INFO None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 16:49:16,017] INFO None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 16:49:16,026] INFO None requested None in _internal:  * Restarting with stat
+[2023-02-18 16:49:19,089] WARNING None requested None in _internal:  * Debugger is active!
+[2023-02-18 16:49:19,105] INFO None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 16:49:37,147] INFO None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:49:37] "GET / HTTP/1.1" 200 -
+[2023-02-18 16:49:38,922] INFO None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:49:38] "GET /update-data HTTP/1.1" 200 -
+[2023-02-18 16:49:57,106] ERROR 127.0.0.1 requested http://127.0.0.1:5000/update-data in routes: Query.filter_by() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\rahul\OneDrive\Desktop\Ineuron_FSDS2.0\WebScrapper-Challange-2\Ineuron-Scrapper\apps\updatedata\routes.py", line 60, in update_data
+    insert_course_description_data(course_data, mysqldb=mysqlDB)
+  File "C:\Users\rahul\OneDrive\Desktop\Ineuron_FSDS2.0\WebScrapper-Challange-2\Ineuron-Scrapper\apps\updatedata\util.py", line 267, in insert_course_description_data
+    existingdata = ScrappedCourseData.query.filter_by(ScrappedCourseData.course_id == course_data['course-id'])
+TypeError: Query.filter_by() takes 1 positional argument but 2 were given
+[2023-02-18 16:49:57,221] INFO None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:49:57] "POST /update-data HTTP/1.1" 200 -
+[2023-02-18 16:55:16,272] INFO None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-18 16:55:16,274] INFO None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-18 16:55:16,286] INFO None requested None in _internal:  * Restarting with stat
+[2023-02-18 16:55:18,659] WARNING None requested None in _internal:  * Debugger is active!
+[2023-02-18 16:55:18,668] INFO None requested None in _internal:  * Debugger PIN: 948-691-692
+[2023-02-18 16:55:28,907] INFO None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:55:28] "GET / HTTP/1.1" 200 -
+[2023-02-18 16:55:31,186] INFO None requested None in _internal: 127.0.0.1 - - [18/Feb/2023 16:55:31] "GET /update-data HTTP/1.1" 200 -
+[2023-02-19 16:56:54,183] INFO None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-19 16:56:54,185] INFO None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-19 16:57:12,644] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 16:57:12] "GET / HTTP/1.1" 200 -
+[2023-02-19 16:57:26,472] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 16:57:26] "GET /category-courses/62cd959d53f5fe14766b9ae5 HTTP/1.1" 200 -
+[2023-02-19 16:57:59,280] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 16:57:59] "GET /course/Full-Stack-Data-Science-Nov'21-Batch HTTP/1.1" 200 -
+[2023-02-19 22:14:20,795] INFO None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-19 22:14:20,797] INFO None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-19 22:14:27,257] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:14:27] "GET / HTTP/1.1" 200 -
+[2023-02-19 22:14:34,782] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:14:34] "GET /category-courses/62cd973e53f5fecaf56b9b01 HTTP/1.1" 200 -
+[2023-02-19 22:14:41,511] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:14:41] "GET / HTTP/1.1" 200 -
+[2023-02-19 22:14:43,975] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:14:43] "GET /category-courses/62cd959d53f5fe14766b9ae5 HTTP/1.1" 200 -
+[2023-02-19 22:14:48,318] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:14:48] "GET /course/Full-Stack-Data-Science-Nov'21-Tech-Neuron HTTP/1.1" 200 -
+[2023-02-19 22:15:29,295] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:15:29] "GET /download/Full-Stack-Data-Science-Nov'21-Tech-Neuron HTTP/1.1" 200 -
+[2023-02-19 22:18:00,011] INFO None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-19 22:18:00,014] INFO None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-19 22:18:11,349] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:18:11] "GET / HTTP/1.1" 200 -
+[2023-02-19 22:18:20,057] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:18:20] "GET /category-courses/62cd977d53f5fe167f6b9b04 HTTP/1.1" 200 -
+[2023-02-19 22:18:22,145] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:18:22] "GET /course/PowerBI-Foundation HTTP/1.1" 200 -
+[2023-02-19 22:57:00,169] INFO None requested None in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2023-02-19 22:57:00,171] INFO None requested None in _internal: [33mPress CTRL+C to quit[0m
+[2023-02-19 22:57:14,839] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:57:14] "GET / HTTP/1.1" 200 -
+[2023-02-19 22:57:18,609] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:57:18] "GET /category-courses/62cd959d53f5fe14766b9ae5 HTTP/1.1" 200 -
+[2023-02-19 22:57:20,969] INFO None requested None in _internal: 127.0.0.1 - - [19/Feb/2023 22:57:20] "GET /course/Full-Stack-Data-Science-Feb'21-Batch HTTP/1.1" 200 -
